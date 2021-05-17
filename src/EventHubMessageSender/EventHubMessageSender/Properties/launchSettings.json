@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EventHubMessageSender": {
+      "commandName": "Project",
+      "commandLineArgs": "1000 60"
+    }
+  }
+}
